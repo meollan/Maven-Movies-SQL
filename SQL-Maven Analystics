@@ -1,7 +1,9 @@
+--Grouping the film in terms of rating, rental duration, and replacement cost--
+
 SELECT
 	rental_duration,
-    rating,
-    replacement_cost,
+    	rating,
+    	replacement_cost,
 	COUNT(film_id) AS count_of_films
 FROM
 	film
