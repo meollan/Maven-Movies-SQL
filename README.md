@@ -1,3 +1,12 @@
+Welcome! I am Meollan Tagle, an Industrial Engineer by profession
+but taking the path to Data Analytics and apply my knowledge
+to project management and Lean Six Sigma
+
+Come and stay with me as I take this journey towards Data Analytics and Business Intelligence
+
+The training I have is in UDEMY leade by Maven with a title
+SQL for Data Analysis: Beginner MySQL Business Intelligence
+
 In this case our database includes
 16 related tables , containing information
 
