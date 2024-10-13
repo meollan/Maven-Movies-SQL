@@ -46,8 +46,9 @@ Could you pull the records of our films and see if there are any other rental du
 
 Task #3.	“I’d like to look at payment records for our long-term customers to learn about their purchase patterns. 
 Could you pull all payments from our first 100 customers (based on customer ID)?”
+![image](https://github.com/user-attachments/assets/543ceb24-7f71-49bb-8774-07f274b70e4d)
 
-Task #4.	“The payment data you gave me on our first 100 customers was great –thank you!"
+Task #4.	“The payment data you gave me on our first 100 customers was great – thank you!"
 Now I’d love to see just payments over $5 for those same customers, since January 1, 2006.”  
 
 Task #5.	“The data you shared previously on customers 42, 53, 60, and 75 was good to see. 
