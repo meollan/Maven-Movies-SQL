@@ -42,7 +42,8 @@ Now I’d love to see just payments over $5 for those same customers, since Janu
 
 Task #5.	“The data you shared previously on customers 42, 53, 60, and 75 was good to see. 
 Now, could you please write a query to pull all payments from those specific customers, along with payments over $5, from any customer?”
-![image](https://github.com/user-attachments/assets/eb7ee6c4-3f85-48dd-a3a1-75691a444ab0)
+![image](https://github.com/user-attachments/assets/fa3766f1-51e5-4545-9988-eaab25f2aa01)
+
 
 Task #6.	“We need to understand the special featuresin our films.
 Could you pull a list of films which include a Behind the Scenes special feature?”
