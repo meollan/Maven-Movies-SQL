@@ -38,7 +38,7 @@ Could you pull all payments from our first 100 customers (based on customer ID)?
 
 Task #4.	“The payment data you gave me on our first 100 customers was great – thank you!"
 Now I’d love to see just payments over $5 for those same customers, since January 1, 2006.” 
-![image](https://github.com/user-attachments/assets/113589e1-3455-4b05-b09d-f5470a0088ed)
+![image](https://github.com/user-attachments/assets/8f0ed8d1-4512-4d7e-8b28-6804a9b3f36f)
 
 Task #5.	“The data you shared previously on customers 42, 53, 60, and 75 was good to see. 
 Now, could you please write a query to pull all payments from those specific customers, along with payments over $5, from any customer?”
