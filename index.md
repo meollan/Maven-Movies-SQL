@@ -5,6 +5,7 @@ Customers Name, Address, etc.
 Business Staff, Rentals, etc.
 Inventory Films, Categories, etc.
 
-![Data Base Relations](https://github.com/user-attachments/assets/c0b39866-9a4d-41a3-9480-f383b964d68e)
+![image](https://github.com/user-attachments/assets/ab18f644-f92b-40a1-9e52-db9c5cb6879d)
+
 
 In this Database we are going to analyze the relationship between the Data
