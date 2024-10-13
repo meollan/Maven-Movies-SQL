@@ -49,10 +49,12 @@ Could you pull all payments from our first 100 customers (based on customer ID)?
 ![image](https://github.com/user-attachments/assets/543ceb24-7f71-49bb-8774-07f274b70e4d)
 
 Task #4.	“The payment data you gave me on our first 100 customers was great – thank you!"
-Now I’d love to see just payments over $5 for those same customers, since January 1, 2006.”  
+Now I’d love to see just payments over $5 for those same customers, since January 1, 2006.” 
+![image](https://github.com/user-attachments/assets/113589e1-3455-4b05-b09d-f5470a0088ed)
 
 Task #5.	“The data you shared previously on customers 42, 53, 60, and 75 was good to see. 
 Now, could you please write a query to pull all payments from those specific customers, along with payments over $5, from any customer?”
+![image](https://github.com/user-attachments/assets/eb7ee6c4-3f85-48dd-a3a1-75691a444ab0)
 
 Task #6.	“We need to understand the special featuresin our films.
 Could you pull a list of films which include a Behind the Scenes special feature?”
