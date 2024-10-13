@@ -42,12 +42,13 @@ Could you pull a list of the first name, last name, and email of each of our cus
 
 Task #2.	“My understanding is that we have titles that we rent for durations of 3, 5, or 7days. 
 Could you pull the records of our films and see if there are any other rental durations?”
+![image](https://github.com/user-attachments/assets/faafc505-cd16-484f-964f-f0b853473ed1)
 
 Task #3.	“I’d like to look at payment records for our long-term customers to learn about their purchase patterns. 
 Could you pull all payments from our first 100 customers (based on customer ID)?”
 
 Task #4.	“The payment data you gave me on our first 100 customers was great –thank you!"
-Now I’d love to see just payments over $5for those same customers, since January 1, 2006.”  
+Now I’d love to see just payments over $5 for those same customers, since January 1, 2006.”  
 
 Task #5.	“The data you shared previously on customers 42, 53, 60, and 75 was good to see. 
 Now, could you please write a query to pull all payments from those specific customers, along with payments over $5, from any customer?”
