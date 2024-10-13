@@ -38,8 +38,7 @@ As a Business Intelligence Analyst, the management ask me to do the following ta
 
 Task #1.	“I’m going to send an email letting our customers know there has been a management change. 
 Could you pull a list of the first name, last name, and email of each of our customers?”
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/1c630f3d-e7dd-40e2-917e-4e1c52ef7526)
 
 Task #2.	“My understanding is that we have titles that we rent for durations of 3, 5, or 7days. 
 Could you pull the records of our films and see if there are any other rental durations?”
