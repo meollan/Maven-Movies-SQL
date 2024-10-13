@@ -17,3 +17,5 @@ Inventory Films, Categories, etc.
 
 
 In this Database we are going to analyze the relationship between the Data
+The simulation gives me a job to become a Business Intelligence Analyst
+to the Maven Movies Rental
