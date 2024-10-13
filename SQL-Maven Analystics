@@ -1,4 +1,4 @@
-#Grouping the film in terms of rating, rental duration, and replacement cost
+#Question 3: Grouping the film in terms of rating, rental duration, and replacement cost
 
 SELECT
 	rental_duration,
