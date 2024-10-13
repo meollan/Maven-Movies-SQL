@@ -4,7 +4,7 @@ I’m eager to leverage my skills in project management and Lean Six Sigma to dr
 Join me on my journey into Data Analytics and Business Intelligence!
 
 The training I have is in UDEMY lead by Maven with a title
-SQL for Data Analysis: Beginner MySQL Business Intelligence
+SQL for Data Analysis: Beginner MySQL Business Intelligence Part 1
 
 In this case our database includes
 16 related tables , containing information
