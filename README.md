@@ -14,7 +14,9 @@ Customers Name, Address, etc.
 Business Staff, Rentals, etc.
 Inventory Films, Categories, etc.
 
-![image](https://github.com/user-attachments/assets/ab18f644-f92b-40a1-9e52-db9c5cb6879d)
+![image](https://github.com/user-attachments/assets/a8fcef2e-6222-4601-a88f-703b177ad448)
+
+
 
 
 In this Database we are going to analyze the relationship between the Data
@@ -36,7 +38,8 @@ As a Business Intelligence Analyst, the management ask me to do the following ta
 
 Task #1.	“I’m going to send an email letting our customers know there has been a management change. 
 Could you pull a list of the first name, last name, and email of each of our customers?”
-![image](https://github.com/user-attachments/assets/8c3dfb1c-9f8b-407c-bfcb-e266c28d75b7)
+![Uploading image.png…]()
+
 
 Task #2.	“My understanding is that we have titles that we rent for durations of 3, 5, or 7days. 
 Could you pull the records of our films and see if there are any other rental durations?”
