@@ -2,9 +2,10 @@ Welcome! I'm Meollan Tagle, an Industrial Engineer transitioning into Data Analy
 I’m eager to leverage my skills in project management and Lean Six Sigma to drive impactful results.
 
 Join me on my journey into Data Analytics and Business Intelligence!
+This is just only the first part that tackles the big 6 query and the case statement
 
 The training I have is in UDEMY lead by Maven with a title
-SQL for Data Analysis: Beginner MySQL Business Intelligence Part 1
+SQL for Data Analysis: Beginner MySQL Business Intelligence
 
 In this case our database includes
 16 related tables , containing information
