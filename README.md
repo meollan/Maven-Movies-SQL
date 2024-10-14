@@ -19,7 +19,7 @@ Inventory Films, Categories, etc.
 
 
 
-In this Database we are going to analyze the relationship between the Data
+In this Database we are going to analyze the relationship between the data.
 The simulation gives me a job to become a Business Intelligence Analyst
 
 As a Business Intelligence Analyst, the management ask me to do the following tasks and here are the following:
@@ -44,12 +44,13 @@ Task #5.	“The data you shared previously on customers 42, 53, 60, and 75 was g
 Now, could you please write a query to pull all payments from those specific customers, along with payments over $5, from any customer?”
 ![image](https://github.com/user-attachments/assets/fa3766f1-51e5-4545-9988-eaab25f2aa01)
 
-
-Task #6.	“We need to understand the special featuresin our films.
+Task #6.	“We need to understand the special features in our films.
 Could you pull a list of films which include a Behind the Scenes special feature?”
+![image](https://github.com/user-attachments/assets/61741504-ee4b-4a10-8e9f-111e1b15ee3e)
 
 Task #7.	“I need to get a quick overview of how long our movies tend to be rented out for. 
 Could you please pull a count of titles sliced by rental duration?”
+![image](https://github.com/user-attachments/assets/2f98bbd4-17f9-42ac-88e4-8e21fa8f79ed)
 
 Task #8.	“I’m wondering if we charge more for a rental when the replacement cost is higher. 
 Can you help me pull a count of films, along with the average, min, and max rental rate, grouped by replacement cost?”
