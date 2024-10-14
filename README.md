@@ -46,10 +46,12 @@ Now, could you please write a query to pull all payments from those specific cus
 
 Task #6.	“We need to understand the special features in our films.
 Could you pull a list of films which include a Behind the Scenes special feature?”
+
 ![image](https://github.com/user-attachments/assets/61741504-ee4b-4a10-8e9f-111e1b15ee3e)
 
 Task #7.	“I need to get a quick overview of how long our movies tend to be rented out for. 
 Could you please pull a count of titles sliced by rental duration?”
+
 ![image](https://github.com/user-attachments/assets/2f98bbd4-17f9-42ac-88e4-8e21fa8f79ed)
 
 Task #8.	“I’m wondering if we charge more for a rental when the replacement cost is higher. 
@@ -57,6 +59,7 @@ Can you help me pull a count of films, along with the average, min, and max rent
 ![image](https://github.com/user-attachments/assets/820c0691-6ca8-45dd-a464-45aff8a1f10f)
 
 Task #9.	“I’d like to talk to customers that have not rented much from us to understand if there is something we could be doing better. Could you pull a list of customer_ids with less than 15 rentals all-time?”
+
 ![image](https://github.com/user-attachments/assets/6b01b66c-f761-4338-b8d5-11c2a6fc53f3)
 
 Task #10.	“I’d like to see if our longest films also tend to be our most expensive rentals. 
