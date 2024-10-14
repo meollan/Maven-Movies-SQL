@@ -54,16 +54,16 @@ Could you please pull a count of titles sliced by rental duration?”
 
 Task #8.	“I’m wondering if we charge more for a rental when the replacement cost is higher. 
 Can you help me pull a count of films, along with the average, min, and max rental rate, grouped by replacement cost?”
+![image](https://github.com/user-attachments/assets/820c0691-6ca8-45dd-a464-45aff8a1f10f)
 
-Task #9.	“I’d like to talk to customers that have not rented much from us to understand if there is something we could be doing better. 
-Could you pull a list of customer_ids with less than 15 rentals all-time?”
+Task #9.	“I’d like to talk to customers that have not rented much from us to understand if there is something we could be doing better. Could you pull a list of customer_ids with less than 15 rentals all-time?”
+![image](https://github.com/user-attachments/assets/6b01b66c-f761-4338-b8d5-11c2a6fc53f3)
 
 Task #10.	“I’d like to see if our longest films also tend to be our most expensive rentals. 
 Could you pull me a list of all film titles along with their lengths and rental rates, and sort them from longest to shortest?”
+![image](https://github.com/user-attachments/assets/c9a0501a-a8cf-4f0f-9730-b4a8e65cf1f6)
 
-Task #11.	“I’d like to know which store each customer goes to, and whether they are active or not. 
-Could you pull a list of first and last names of all customers, and label them as either ‘store 1 active’, ‘store 1 inactive’, ‘store 2 active’, or ‘store 2 inactive’?”
+In this section, I study the big 6 of the SQL which are the basic of the SQL.
 
-Task #12.	“I’m curious how many inactive customers we have at each store. 
-Could you please create a table to count the number of customers broken down by store_id(in rows), and active status (in columns)?”
-
+I am thankful that the data used in this section is already clean and normalized so this only focuses on the extraction of the data and dealing with the basic. 
+I have so much to learn in SQL and please stay tuned on the Part 2 of my dashboard.
