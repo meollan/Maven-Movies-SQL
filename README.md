@@ -61,6 +61,7 @@ Task #9.	“I’d like to talk to customers that have not rented much from us to
 
 Task #10.	“I’d like to see if our longest films also tend to be our most expensive rentals. 
 Could you pull me a list of all film titles along with their lengths and rental rates, and sort them from longest to shortest?”
+
 ![image](https://github.com/user-attachments/assets/c9a0501a-a8cf-4f0f-9730-b4a8e65cf1f6)
 
 In this section, I study the big 6 of the SQL which are the basic of the SQL.
