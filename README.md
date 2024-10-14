@@ -67,6 +67,16 @@ Could you pull me a list of all film titles along with their lengths and rental 
 
 ![image](https://github.com/user-attachments/assets/c9a0501a-a8cf-4f0f-9730-b4a8e65cf1f6)
 
+The task of the second part are as follows:
+
+Task #11:“I’d like to know which store each customer goes to, and whether or not they are active.
+Could you pull a list of first and last names of all customers , and label them as either ‘store 1 active’, ‘store 1 inactive’, ‘store 2 active’, or ‘store 2 inactive’?”
+![image](https://github.com/user-attachments/assets/961c8c11-1532-46fb-a95e-b776f76b9cd7)
+
+Task #12: “I’m curious how many inactive customers we have at each store. Could you please create a table to count the number of customers broken down by store_id (in rows), and active status (in columns)?”
+
+![image](https://github.com/user-attachments/assets/9f36f352-1c54-4536-bf67-fe130360d0ed)
+
 In this section, I study the big 6 of the SQL which are the basic of the SQL.
 
 I am thankful that the data used in this section is already clean and normalized so this only focuses on the extraction of the data and dealing with the basic. 
